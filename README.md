@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there,
+I'm Abhishek 👋
+
+🚀 I'm a beginner web developer learning HTML, CSS, and JavaScript.  
+💻 Currently working on small projects like bookmark pages and image-based layouts.  
+📘 Learning from: CodeWithHarry's Sigma Web Dev Course  
+🎯 Goal: Become a freelance web developer!
+
+### 🌐 Connect with me
+- 💼 GitHub: [Abhishek-c0der](https://github.com/Abhishek-c0der)
+
 
 <!--
 **Abhishek-c0der/Abhishek-c0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
